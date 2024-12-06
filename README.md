@@ -59,11 +59,8 @@ The Titanic Survival Prediction project demonstrates the end-to-end workflow of 
 - Explore advanced ensemble methods such as LightGBM and CatBoost.
 - Automate hyperparameter optimization using Grid Search or Bayesian Optimization.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Mississippi State University Data Wrangling Lab(DSCI 2012)
+- Mississippi State University Data Wrangling Lab(DSCI 2012) Taught by Dr. Jonathan Barlow
 
